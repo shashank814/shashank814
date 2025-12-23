@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Shashank Singh</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;CSE+Undergraduate;Building+Real+World+Apps&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;CSE+Undergraduate;Building+Modern+Web+Apps&center=true&width=500&height=45">
 </p>
 
 ---
@@ -10,10 +10,10 @@
 
 - 🚀 MERN Stack Developer  
 - 🎓 B.Tech CSE Student (2023–2027)  
-- 🔐 Interested in Authentication & Secure Systems  
-- 💳 Experience with Payment Gateway Integrations  
-- 🌐 Enjoy working with APIs & cloud services  
-- 🎯 Focused on writing clean, scalable code  
+- 🔐 Interested in secure authentication systems  
+- 💳 Experience with payment gateway integrations  
+- 🌐 Love working with APIs & cloud services  
+- 🎯 Focused on clean, scalable code  
 
 ---
 
@@ -63,16 +63,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashank814&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank814&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 💬 Dev Quote
 
 > *“First, solve the problem. Then, write the code.”*  
 — John Johnson
+
